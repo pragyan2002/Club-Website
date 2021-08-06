@@ -1,0 +1,37 @@
+body{
+  background-color: #EBF3F8;
+  font-family: "Poppins";
+}
+
+#blogs{
+  text-align: center;
+}
+
+button{
+  padding: auto;
+  margin: auto;
+  text-align: center;
+  width: 395px;
+  left: 523px;
+  top: 1115px;
+  height: 69px;
+  border-radius: 10px;
+}
+
+#medium1{
+  margin:50px;
+  width: 575px;
+  left: 125px;
+  top: 270px;
+  border-radius: 25px;
+  height: 350px;
+}
+
+#medium2{
+  margin:50px;
+  width: 575px;
+  left: 125px;
+  top: 270px;
+  border-radius: 25px;
+  height: 350px;
+}
